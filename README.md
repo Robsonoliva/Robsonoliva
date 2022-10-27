@@ -1,8 +1,5 @@
+# Sobre mim
 - 👋 Olá, sou Robson Oliveira 
 - 👀 Sou Embaixador Edutech
-
-
-<!---
-Robsonoliva/Robsonoliva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :checkered_flag: Moro em Maringá
+- :heavy_check_mark: Meu e-mail de contato é robson.lemes@escola.pr.gov.br
